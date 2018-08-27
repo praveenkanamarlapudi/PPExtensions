@@ -2,14 +2,15 @@
 ```buildoutcfg
 pip install ppextensions
 ```
+
 ## Try ppextensions
 ```
 %load_ext ppextensions.ppmagics
 ```
 
-Try help to see all the available options
+Try help to see all the available magics
 ```buildoutcfg
-%%help?
+%help
 ```
 
 | Magic               | Usage          | Explanation                                                                                                                    |
@@ -24,4 +25,4 @@ Try help to see all the available options
 
 
 For more info:
-[Github Link](git@github.com:paypal/PPExtensions.git)
+[Github Link](https://github.com/paypal/PPExtensions/)

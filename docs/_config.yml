@@ -1,0 +1,21 @@
+theme: jekyll-theme-cayman
+
+pages:
+- Getting Started:
+    - 'Load PPMagics': 'getting-started/build-ppextensions.md'
+- PPMagics:
+    - 'CSV': 'ppmagics/csv.md'
+    - 'Hive': 'ppmagics/hive.md'
+    - 'Teradata': 'ppmagics/teradata.md'
+    - 'Presto': 'ppmagics/presto.md'
+    - 'Spark Thrift Server': 'ppmagics/sts.md'
+    - 'Tableau Publish': 'ppmagics/publish.md'
+    - 'Run': 'ppmagics/run.md'
+    - 'Run Pipeline': 'ppmagics/run_pipeline.md'
+
+- Github Integration:
+    - 'Public Sharing': 'ppextensions-github-integration/github-integration.md'
+    - 'Project Collaboration': 'ppextensions-github-integration/project-collaboration.md'
+
+- Notebooks Scheduler:
+    - 'Scheduler': 'ppextensions-scheduler/scheduler.md'
