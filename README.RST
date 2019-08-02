@@ -29,7 +29,7 @@ Current State
 +-----------+-----------+-------+
 | Scheduler | Available | Beta  |
 +-----------+-----------+-------+
-| Github    | Available | Bet   |
+| Github    | Available | Beta   |
 +-----------+-----------+-------+
 
 
