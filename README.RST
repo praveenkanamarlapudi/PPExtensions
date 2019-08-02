@@ -1,0 +1,49 @@
+PPExtensions
+============
+
+PPExtensions is a suite of ipython and jupyter extensions built to improve user experience and reduce time to market in `Jupyter <http://jupyter.org/>`_ notebooks.
+
+--------
+Features
+--------
+- **PPMagics** - Set of magics to simplify access to different storage systems and tableau.
+- **Github Integration** - A jupyter extension to integrate notebooks with github. This extension simplifies version controlling, sharing and resolving merge conflicts of notebooks.
+- **Notebooks Scheduling** - A jupyter extension to productionalize the notebooks development environment. This extension enables scheduling notebooks with help of `airflow <https://airflow.apache.org/>`_.
+- **Config UI** - A simple UI built to change the configurations of different extensions like PPMagic, `sparkmagic <https://github.com/jupyter-incubator/sparkmagic/>`_ ..etc.
+
+
+------------
+Installation
+------------
+pip install ppextensions
+
+
+-------------
+Current State
+-------------
+
++-----------+-----------+-------+
+| Feature   | Available | State |
++===========+===========+=======+ 
+| PPMagics  | Available | Beta  |
++-----------+-----------+-------+
+| Scheduler | Available | Beta  |
++-----------+-----------+-------+
+| Github    | Available | Bet   |
++-----------+-----------+-------+
+
+
+-------------------------------
+Documentation & Getting Started
+-------------------------------
+
+`Click here to read the docs <http://ppextensions.readthedocs.io/>`_
+
+---------
+Questions
+---------
+
+- `Slack <https://ppextensions.slack.com>`_
+- `User Forum <https://groups.google.com/d/forum/ppextensions>`_
+- `Developer Forum <https://groups.google.com/d/forum/ppextensions>`_
+

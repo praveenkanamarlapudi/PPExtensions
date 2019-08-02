@@ -12,7 +12,7 @@ DOWNLOAD_URL = 'https://github.com/paypal/ppextensions'
 LICENSE = 'BSD License'
 
 here = os.path.abspath(os.path.dirname(__file__))
-README = open(os.path.join(here, 'README.md'), encoding='utf-8').read()
+README = open(os.path.join(here, 'README.RST'), encoding='utf-8').read()
 
 VERSION = '0.0.5'
 
